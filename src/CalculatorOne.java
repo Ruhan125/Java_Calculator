@@ -35,7 +35,7 @@ public class CalculatorOne {
  
 		final JTextField jtf = new JTextField();
 		jtf.setBounds(8,8,305,85);
-		jtf.setFont(new Font("Arial", Font.BOLD, 28));
+		jtf.setFont(new Font("Arial", Font.BOLD, 28));// setting font
  
 		panel1.add(jtf);
  
